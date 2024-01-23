@@ -48,3 +48,5 @@ Simetri
 Fraktal boyutu
 İç içe geçmiş düzensiz hücrelerin tüm normal
 hücrelere oranının ortalaması, standart sapması ve en kötü değeridir.
+
+Meme kanseri olanlarda ölüm nedenine yapılan atıflar, hastanın özelliklerine bağlı birçok nedene bağlı olabilir. Herhangi bir spesifik neden meme kanseri sonucu ölüm riskini azaltabilir. Bununla birlikte, bu sonuçlar hem aktif hem de eski meme kanseri öyküsü olan hastaların karşılaştıkları erken teşhisin öneminin altını çizmektedir. Çalışmamız meme kanserli kadınlarda erken tanının yüksek doğrulukla yapılmasının önemini pekiştirmektedir.
