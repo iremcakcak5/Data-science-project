@@ -1,1 +1,2 @@
-# Data-science-project
+# MEME KANSERİNİN TAHMİNİ
+Bu modelde meme kanserine ilişkin python sklearn veri kümesini kullanacağım. Bu veri kümesi 596 örneğe ve ortalama yarıçap, ortalama doku, ortalama parametre, ortalama düzgünlük vb. gibi 30 özelliğe sahiptir. Bu nedenle, tümörün kötü huylu (tehlikeli olma potansiyeline sahip) veya İyi huylu (tehlikeli olmayan) olup olmadığını tahmin edebilmemiz için bir model oluşturmalıyız. sağlık açısından tehlikeli). Bu sorunu çözmek için SVM Sınıflandırıcıyı kullanacağız
